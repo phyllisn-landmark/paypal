@@ -1,3 +1,0 @@
-paul
-esia
-keziah
