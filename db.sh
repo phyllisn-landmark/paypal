@@ -1,5 +1,7 @@
 #list of db
 mongodb
-mysql
+mySQL
 mariadb
-
+postgreSQL
+Aurora
+DynamoDB
