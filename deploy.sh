@@ -1,5 +1,6 @@
-List
+Deploying applications
 Tomcat
 JBoss
 Docker
-K8S
+k8s
+EKS
